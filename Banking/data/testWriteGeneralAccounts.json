@@ -1,0 +1,12 @@
+{"customers": [
+    {
+        "savingBalance": 100,
+        "name": "rock",
+        "chequingBalance": 100
+    },
+    {
+        "savingBalance": 100,
+        "name": "jack",
+        "chequingBalance": 100
+    }
+]}
